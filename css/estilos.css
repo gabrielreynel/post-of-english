@@ -16,3 +16,18 @@ body {
 #conteiner h1 {
     font-size: 20px;
 }
+
+#cabecera {
+    color: white;
+    font-size: 40px;
+    background: rgb(95, 230, 95);
+    padding: 0.5em;
+    margin: 0;
+    font-weight: bold;
+    box-shadow: rgba(0, 0, 0, 0.3) 5px 5px 5px 0px;
+    border-radius: 10px;
+}
+
+#post {
+    padding: 20px;
+}
